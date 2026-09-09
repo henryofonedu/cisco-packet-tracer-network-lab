@@ -101,7 +101,7 @@ Cisco Packet Tracer's Simulation Mode was used to observe DNS and HTTP packets t
 
 ### Network Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](https://github.com/henryofonedu/cisco-packet-tracer-network-lab/blob/main/screenshots/network%20topology.jpg?raw=true)
 
 ### DHCP Verification
 
