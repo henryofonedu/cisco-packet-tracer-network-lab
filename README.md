@@ -113,7 +113,7 @@ Cisco Packet Tracer's Simulation Mode was used to observe DNS and HTTP packets t
 
 ### Web Server Access
 
-![Web Server Access](screenshots/web-server.png)
+![Web Server Access](https://github.com/henryofonedu/cisco-packet-tracer-network-lab/blob/main/screenshots/web%20server%20access%20using%20ip%20address%20and%20domain%20name.jpg?raw=true)
 
 ### Connectivity Test
 
