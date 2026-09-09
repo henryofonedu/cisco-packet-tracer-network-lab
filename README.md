@@ -105,7 +105,7 @@ Cisco Packet Tracer's Simulation Mode was used to observe DNS and HTTP packets t
 
 ### DHCP Verification
 
-![DHCP Verification](screenshots/dhcp.png)
+![DHCP Verification](https://github.com/henryofonedu/cisco-packet-tracer-network-lab/blob/main/screenshots/pc1%20getting%20ip%20address%20successful.jpg?raw=true)
 
 ### DNS Resolution
 
