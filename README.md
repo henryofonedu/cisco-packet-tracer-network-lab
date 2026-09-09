@@ -117,7 +117,9 @@ Cisco Packet Tracer's Simulation Mode was used to observe DNS and HTTP packets t
 
 ### Connectivity Test
 
-![Connectivity Test](screenshots/connectivity-test.png)
+![Connectivity Test](https://github.com/henryofonedu/cisco-packet-tracer-network-lab/blob/main/screenshots/default%20gateway%20verification.jpg?raw=true)
+
+![Connectivity Test]()
 
 ### Packet Flow Analysis
 
