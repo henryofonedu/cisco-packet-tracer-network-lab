@@ -123,7 +123,7 @@ Cisco Packet Tracer's Simulation Mode was used to observe DNS and HTTP packets t
 
 ### Packet Flow Analysis
 
-![Packet Flow Analysis](screenshots/packet-flow.png)
+![Packet Flow Analysis](https://github.com/henryofonedu/cisco-packet-tracer-network-lab/blob/main/screenshots/simulation%20mode%20verifying%20packet%20flow.jpg?raw=true)
 
 ## Technologies Used
 
