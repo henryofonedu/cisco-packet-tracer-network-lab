@@ -109,7 +109,7 @@ Cisco Packet Tracer's Simulation Mode was used to observe DNS and HTTP packets t
 
 ### DNS Resolution
 
-![DNS Resolution](screenshots/dns.png)
+![DNS Resolution](https://github.com/henryofonedu/cisco-packet-tracer-network-lab/blob/main/screenshots/dns%20resolution%20successful.jpg?raw=true)
 
 ### Web Server Access
 
